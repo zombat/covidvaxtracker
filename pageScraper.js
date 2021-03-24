@@ -1,5 +1,4 @@
-const
-email = require(`./email.js`);
+const email = require(`./email.js`);
 
 var scraperObject = {
     url: `https://www.cvs.com/immunizations/covid-19-vaccine`,
